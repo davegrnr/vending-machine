@@ -1,0 +1,11 @@
+h1 {
+	color: white;
+}
+
+.Surstromming-link {
+	color: blue;
+}
+
+.Surstromming-link :hover {
+	color: red;
+}

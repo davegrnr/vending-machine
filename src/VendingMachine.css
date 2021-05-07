@@ -1,0 +1,17 @@
+.VendingMachine-div {
+	height: 100%;
+	color: red;
+	margin-top: -5%;
+}
+
+.VendingMachine-h1-div {
+	margin-top: 8%;
+	z-index: 100;
+	color: white;
+	position: relative;
+}
+
+.VendingMachine-img {
+	margin-top: -5%;
+	z-index: -1;
+}
